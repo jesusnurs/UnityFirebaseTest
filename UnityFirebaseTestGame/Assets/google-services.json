@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886545348489",
+    "project_id": "unityfirebasetest-38daa",
+    "storage_bucket": "unityfirebasetest-38daa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886545348489:android:aa5372de8cfdf23fce5358",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.UnityFirebaseTest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc2wMFwFLLPbUsrja2ppzAmtucEwbI6go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
