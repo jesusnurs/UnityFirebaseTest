@@ -12,7 +12,20 @@
           "package_name": "com.DefaultCompany.UnityFirebaseTest"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "886545348489-6nrs0dibi63a13msnhipl98mja55hd6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.UnityFirebaseTest",
+            "certificate_hash": "166e7681f6ab731f93c7444982a384042d14c37f"
+          }
+        },
+        {
+          "client_id": "886545348489-v8i2cec50q91qfjgprljsq7no6ob0ctm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCc2wMFwFLLPbUsrja2ppzAmtucEwbI6go"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886545348489-v8i2cec50q91qfjgprljsq7no6ob0ctm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
